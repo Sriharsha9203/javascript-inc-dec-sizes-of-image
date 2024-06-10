@@ -1,0 +1,57 @@
+.hi{
+    background-color: azure;
+}
+#mid{
+text-align: center;
+font-size: 4rem;
+padding-top: 100px;
+}
+#mid1{
+text-align:center ;
+font-size: 2rem;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+#high{
+    display: flex;
+    text-align: center;
+    font-size: 4rem;
+    padding-top: 50px;
+}
+#high1{
+    margin-left: 20px;
+
+    font-size: 1.5rem;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#button{
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 15px;
+    color: black;
+    background-color: white;
+    border-color: white;
+    border: 0;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+}
+#visible{
+    color: brown;
+    font-size: 2.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
